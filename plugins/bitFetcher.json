@@ -1,0 +1,25 @@
+{
+    "slug": "bitFetcher",
+    "name": "bitFetcher",
+    "author": "Alaric Haag",
+    "license": "MIT",
+    "version": "0.5.1dev",
+    "homepage": "https://github.com/bitFetcher/bF",
+    "donation": "https://www.paypal.me/AlaricHaag",
+    "manual": "https://github.com/bitFetcher/blob/master/README.md",
+    "source": "https://github.com/bitFetcher/bF",
+    "downloads": {
+        "win": {
+            "download": "https://github.com/bitfetcher/bF/releases/download/v0.5.1/bitFetcher-0.5.1dev-win.zip",
+            "sha256": "e7ba6655836ac558b44275f016648260d1429ecff7405e488f9c269de54fbd16"
+        },
+        "lin": {
+            "download": "https://github.com/bitfetcher/bF/releases/download/v0.5.1/bitFetcher-0.5.1dev-lin.zip",
+            "sha256": "e7bd5aacc3a6c3f872c1b4354376ef443140ab07ae4921c9844b85b8586a1ccd"
+        },
+        "mac": {
+            "download": "https://github.com/bitfetcher/bF/releases/download/v0.5.1/bitFetcher-0.5.1dev-mac.zip",
+            "sha256": "0278f2c2976f675aceb358e65ba7e74044e87204a70e381bd4421f0a7c2cf7e1"
+        }
+    }
+}
